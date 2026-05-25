@@ -1,4 +1,4 @@
-# 🇹🇿 Tanzania RAG Chat Assistant
+#  RAG Chat Assistant
 
 A Retrieval-Augmented Generation (RAG) chatbot built with Python, Ollama, PostgreSQL + pgvector, and Groq API.
 
@@ -6,7 +6,7 @@ The system ingests PDF documents, stores semantic embeddings in PostgreSQL, retr
 
 ---
 
-# 🚀 Tech Stack
+#  Tech Stack
 
 - Python
 - Ollama (`nomic-embed-text`)
@@ -17,7 +17,7 @@ The system ingests PDF documents, stores semantic embeddings in PostgreSQL, retr
 
 ---
 
-# 📁 Project Structure
+#  Project Structure
 
 ```text
 pdf-rag-chat/
